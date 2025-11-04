@@ -62,10 +62,6 @@ npm start
 - `npm run build` - Builds the app for production
 - `npm run eject` - Ejects from Create React App (one-way operation)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
 ---
 
 Made with ❤️ and React
