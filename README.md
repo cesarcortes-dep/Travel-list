@@ -21,17 +21,20 @@ A simple and intuitive React application to help you organize your packing list 
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/cesarcortes-dep/Travel-list.git
 cd Travel-list
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start the development server:
+
 ```bash
 npm start
 ```
@@ -43,21 +46,6 @@ npm start
 - **React** - JavaScript library for building user interfaces
 - **Create React App** - Tool for setting up React projects
 - **CSS3** - Styling
-
-## 📁 Project Structure
-
-```
-src/
-├── components/
-│   ├── App.js          # Main application component
-│   ├── Form.js         # Form to add new items
-│   ├── Item.js         # Individual item component
-│   ├── Logo.js         # Application logo
-│   ├── PackingList.js  # List of all packing items
-│   └── Stats.js        # Statistics footer
-├── index.css           # Global styles
-└── index.js            # Application entry point
-```
 
 ## 🎯 Usage
 
@@ -74,23 +62,9 @@ src/
 - `npm run build` - Builds the app for production
 - `npm run eject` - Ejects from Create React App (one-way operation)
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-## 👤 Author
-
-**Cesar Cortes**
-- GitHub: [@cesarcortes-dep](https://github.com/cesarcortes-dep)
-
-## 🙏 Acknowledgments
-
-- Part of the Ultimate React Course by Jonas Schmedtmann
-- Built while learning React fundamentals
 
 ---
 
