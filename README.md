@@ -2,6 +2,8 @@
 
 A simple and intuitive React application to help you organize your packing list for trips. Keep track of items you need to pack, mark them as packed, and see your packing progress.
 
+🔗 **Live Demo:** [https://travellistreact.netlify.app/](https://travellistreact.netlify.app/)
+
 ## ✨ Features
 
 - ➕ Add items to your packing list with quantity
